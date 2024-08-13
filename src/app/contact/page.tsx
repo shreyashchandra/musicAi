@@ -1,9 +1,9 @@
-import React from "react";
+"use client";
 
 function page() {
   return (
     <>
-      <div>page</div>
+      <div>page2</div>
     </>
   );
 }
